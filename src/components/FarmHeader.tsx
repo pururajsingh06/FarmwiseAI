@@ -22,7 +22,7 @@ const FarmHeader = ({ showUserMenu = true }: FarmHeaderProps) => {
         <span className="bg-farm-green text-white p-1 rounded">
           <Wheat size={18} />
         </span>
-        SMART FARM ADVISOR
+        FARMWISE AI
       </Link>
       
       {showUserMenu && (
